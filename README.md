@@ -43,7 +43,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/TUUSUARIO"><img src="https://github.com/justinrafaelcb0309-prog/justinrafaelcb0309-prog"></a>
+<a href="https://github.com/justinrafaelcb0309-prog/justinrafaelcb0309-prog"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
